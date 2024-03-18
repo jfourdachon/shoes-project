@@ -1,11 +1,4 @@
-import {
-  SafeAreaView,
-  View,
-  StyleSheet,
-  StatusBar,
-  KeyboardAvoidingView,
-  Dimensions,
-} from "react-native";
+import { SafeAreaView, View, StyleSheet } from "react-native";
 import { colors } from "../../constants/colors";
 import SearchSection from "./searchSection";
 import ListSection from "./listSection";

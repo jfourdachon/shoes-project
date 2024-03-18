@@ -1,7 +1,5 @@
 import { View, StyleSheet } from "react-native";
 import SearchInput from "../../../ui-components/inputs/SearchInput";
-import { useState } from "react";
-import { spaces } from "../../../constants/spaces";
 import BrandsList from "./components/BrandsList";
 
 export default function SearchSection({
